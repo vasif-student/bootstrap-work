@@ -1,0 +1,53 @@
+main {
+    margin-top: 50px;
+}
+
+main .container .card {
+    margin-bottom: 20px;
+}
+
+main .container .input-group {
+    margin-bottom: 20px;
+}
+
+main .container .input-group label {
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+main .container .input-group label>i {
+    padding-right: 10px;
+}
+
+main .container .social-media h4 {
+    margin-bottom: 20px;
+}
+
+main .container .social-media i {
+    border-radius: 0.2rem;
+    padding: 10px;
+}
+
+main .container .post h4 {
+    margin-bottom: 30px;
+}
+
+main .container .social-media .fa-twitter {
+    color: white;
+    background-color: rgb(79, 170, 255);
+}
+
+main .container .social-media .fa-facebook-square {
+    color: white;
+    background-color: #3B5998;
+}
+
+main .container .social-media .fa-youtube {
+    color: white;
+    background-color: red;
+}
+
+main .container .social-media .fa-instagram {
+    color: white;
+    background: linear-gradient(to left, orangered, blue);
+}
